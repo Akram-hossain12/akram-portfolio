@@ -22,7 +22,12 @@ span{
 }
 section{
     display: flex;
+   
     
+}
+.top-banner{
+    background-image: url(myimg/top-banner.png);
+    background-repeat: no-repeat;
 }
 .half-div{
     width: 50%;
@@ -44,6 +49,9 @@ section{
 }
 .dream-section{
     margin-top: 150px;
+    background-image: url(myimg/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
 .dream-big{
     margin-top: 100px;
