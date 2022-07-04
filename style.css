@@ -31,6 +31,7 @@ section{
 .half-div img{
     border-radius: 50%;
     margin-top: 6%;
+    width: 100%;
 }
 .link-btn{
     font-weight: 700;
@@ -40,4 +41,10 @@ section{
     border-radius: 5px;
     font-size: 25px;
     margin-top: 10px ;
+}
+.dream-section{
+    margin-top: 150px;
+}
+.dream-big{
+    margin-top: 100px;
 }
